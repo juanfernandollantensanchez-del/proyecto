@@ -9,4 +9,5 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 ## Tecnologías utilizadas
 - GitHub Projects
 - Git
--jhamilton cambi algo
+- Markdown
+
