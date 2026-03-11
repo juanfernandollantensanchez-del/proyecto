@@ -5,7 +5,7 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 - [Jhamilton]
 
 - [flor Desarrollador 2]
-- [Juan]
+- [Juan gay]
 35e229c9f0dce0ba9bbb42595946e09c7a3402d9
 - [lllljjjjjjjjjjjjjjjjjjjjj]
 
