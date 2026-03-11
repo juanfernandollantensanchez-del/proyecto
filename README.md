@@ -3,10 +3,11 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 
 ## Equipo
 - [Nombre Desarrollador 1]
-- [Nombre Desarrollador 2]
+- [Jhamilton]
 - [Nombre Desarrollador 3]
 
 ## Tecnologías utilizadas
 - GitHub Projects
 - Git
--jhamilton cambi algo
+- Markdown
+
