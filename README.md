@@ -3,7 +3,10 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 
 ## Equipo
 - [Jhamilton]
+
 - [flor Desarrollador 2]
+- [Juan]
+35e229c9f0dce0ba9bbb42595946e09c7a3402d9
 - [Nombre Desarrollador 3]
 
 ## Tecnologías utilizadas
