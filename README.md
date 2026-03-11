@@ -2,8 +2,8 @@
 Este repositorio es parte de un laboratorio práctico sobre metodología Kanban con GitHub Projects.
 
 ## Equipo
-- [Nombre Desarrollador 1]
-- [Jhamilton]
+- [SANTIAGoO]
+- [Nombre Desarrollador 2]
 - [Nombre Desarrollador 3]
 
 ## Tecnologías utilizadas
